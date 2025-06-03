@@ -43,4 +43,7 @@ export const puppyQuotes = [
   '💩',
   '^_____^',
   '<@_@>',
+  'Optimism never gets you far',
+  'When life gives you lemons, throw them at people you hate',
+  'Hang in there 😿',
 ];
