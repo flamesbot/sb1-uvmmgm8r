@@ -46,4 +46,5 @@ export const puppyQuotes = [
   'Optimism never gets you far',
   'When life gives you lemons, throw them at people you hate',
   'Hang in there 😿',
+  'The only way to succeed in life is to always feel like a failure ~ Madi 2025'
 ];
