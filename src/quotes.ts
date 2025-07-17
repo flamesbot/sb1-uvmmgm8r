@@ -46,6 +46,6 @@ export const puppyQuotes = [
   'Optimism never gets you far',
   'When life gives you lemons, throw them at people you hate',
   'Hang in there 😿',
-  'The only way to succeed in life is to always feel like a failure ~ Madi 2025'
-  'https://360.articulate.com/review/content/d1796ccb-dc45-49e9-8c9a-f83bd97236bb/review'
+  'The only way to succeed in life is to always feel like a failure ~ Madi 2025',
+  'https://360.articulate.com/review/content/d1796ccb-dc45-49e9-8c9a-f83bd97236bb/review',
 ];
